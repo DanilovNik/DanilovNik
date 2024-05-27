@@ -1,4 +1,4 @@
-Hi 👋 My name is Danilov Nikita
+Hi 👋 I'm Danilov Nikita!
 ===============================
 
 Frontend Developer
