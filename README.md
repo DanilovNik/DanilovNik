@@ -7,7 +7,7 @@ Frontend Developer
 I’ve been studying frontend dev since 2022 and love everything related to computers and new technologies in the field of life and web.
 
 * 🌍  I'm based in Saint-Petersburg, Russia
-* ✉️  You can contact me at [nik.danilov@yahoo.com](mailto:nik.danilov@yahoo.com) nor [t.me/DanilovN1k](link:https://t.me/DanilovN1k)
+* ✉️  You can contact me at [nik.danilov@yahoo.com](mailto:nik.danilov@yahoo.com) nor <a>t.me/DanilovN1k<a/>
 
 ### Skills
 
